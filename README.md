@@ -1,6 +1,5 @@
-# Text-Classification-Multiclass-Analysis-with-Advanced-Techniques-and-BERT-Transformer-Integration
+# Text-Classification-Multiclass
 
-<img src="E_commerce_classification.png" style="width:100%; height: 400px">
 
 **Overview:**
 
